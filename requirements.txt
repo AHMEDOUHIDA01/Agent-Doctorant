@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+langchain-google-genai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+requests
+python-dotenv
